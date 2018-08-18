@@ -32,5 +32,5 @@ services:
     environment:
       DS_LICENSE: accept
     volumes:
-    - "./notebooks:/var/lib/studio"
+    - "./notebooks:/var/lib/datastax-studio"
 
